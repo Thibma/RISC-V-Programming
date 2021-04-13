@@ -1,5 +1,8 @@
 # 📠 RISC-V Programming
 
+Work by student of 4MOC at ESGI.
+Group 2 Thibault BALSAMO & Sophie PELLUET
+
 ## Prerequisite
 
 Download [RARS](https://github.com/TheThirdOne/rars) 1.5 (you need a Java runtime) [here](https://github.com/TheThirdOne/rars/releases/download/v1.5/rars1_5.jar).
